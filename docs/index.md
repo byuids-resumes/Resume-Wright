@@ -61,7 +61,6 @@ __Brigham Young University-Idaho__, Intermediate Statistics Regression Analysis 
 __LDS Missionary__, Bentonville, Arkansas
 
 - Created lesson plans to guide people in their learning with the church using church resources.
-
 - Served at different food pantries throughout Arkansas and Missouri for those in need.
 
 <!-- ### Footer
