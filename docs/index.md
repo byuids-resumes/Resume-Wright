@@ -26,9 +26,10 @@ __Brigham Young University-Idaho__, Rexburg, Idaho
 ### Internships
 
 `January 2021 – April 2021`
-__Category Partners__, Rexburg, Idaho
+__Category Partners__, Idaho Falls, Idaho
 
-- Explored large data to find inconsistencies to avoid sending out unclean data to clients.
+
+- Explored complex data to find inconsistencies and avoid sending out unclean data to clients.
 
 - Used R to clean large survey datasets and extract meaningful insights for clients.
 
@@ -36,7 +37,7 @@ __Category Partners__, Rexburg, Idaho
 __Hangar Marketing__, Rexburg, Idaho
 
 - Researched analytics using Google Analytics and Google Search Console to rank website on first page for specific keywords
-- Investigated specific keywords using Google Keyword Planner to implement into websites to have them rank higher on search engines
+- Investigated specific keywords using Google Keyword Planner to implement into websites and have them rank higher on search engines
 
 
 ### Experiential Learning Projects
@@ -44,15 +45,15 @@ __Hangar Marketing__, Rexburg, Idaho
 `May 2021`
 __Brigham Young University-Idaho__, Nba Stats Programmming Project
 
-- Pulled NBA player stat data from the internet using python to analyze
-- Created an interactive Python program using pandas to allow users to find stats and perform comparisons between NBA players from the 2020-2021 season
+- Through Python, pulled NBA player stat data from the internet to be able to analyze it
+- Created an interactive Python program using pandas so users can find stats and perform comparisons between NBA players from the 2020-2021 season
 
 
 `October 2021`
 __Brigham Young University-Idaho__, Intermediate Statistics Regression Analysis Apple Stock  
 
-- Cleaned and Analyzed Apple stock data using R for Regression Analysis
-- Analyzed how strong of a correlation that NASDAQ’s stock has on Apple’s stock performance using a regression analysis in R.
+- Cleaned and analyzed Apple stock data using R for Regression Analysis
+- Analyzed how strong of a correlation NASDAQ’s stock has on Apple’s stock performance using a regression analysis in R.
 
 
 ## Service and Work History
@@ -60,7 +61,7 @@ __Brigham Young University-Idaho__, Intermediate Statistics Regression Analysis 
 `2016-2018`
 __LDS Missionary__, Bentonville, Arkansas
 
-- Created lesson plans to guide people on their learning with the church using church resources.
+- Created lesson plans to guide people in their learning with the church using church resources.
 
 - Served at different food pantries throughout Arkansas and Missouri for those in need.
 
