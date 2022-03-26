@@ -30,7 +30,6 @@ __Category Partners__, Idaho Falls, Idaho
 
 
 - Explored complex data to find inconsistencies and avoid sending out unclean data to clients.
-
 - Used R to clean large survey datasets and extract meaningful insights for clients.
 
 `January 2021 – April 2021`
@@ -52,7 +51,7 @@ __Brigham Young University-Idaho__, Nba Stats Programmming Project
 `October 2021`
 __Brigham Young University-Idaho__, Intermediate Statistics Regression Analysis Apple Stock  
 
-- Cleaned and analyzed Apple stock data using R for Regression Analysis
+- Cleaned and analyzed Apple stock data by performing a Regression Analysis in R
 - Analyzed how strong of a correlation NASDAQ’s stock has on Apple’s stock performance using a regression analysis in R.
 
 
